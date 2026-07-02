@@ -2,9 +2,9 @@
 
 # Hi 👋 I'm Abusaeed Raju
 
-### MERN Stack Backend Developer | Learning .NET
+### MERN Stack Backend Developer | Learning React.js
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;MERN+Stack+Developer;Node.js+API+Developer;Learning+C%23+and+.NET;Building+Scalable+Systems&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;MERN+Stack+Developer;Node.js+API+Developer;Learning+React.js;Building+Scalable+Systems&center=true&width=500&height=45">
 
 </div>
 
@@ -14,7 +14,7 @@
 
 * 💻 Backend developer focused on **Node.js & scalable APIs**
 * 🛠 Main stack: **MongoDB, Express, React, Node.js**
-* 🌱 Currently learning **C# and .NET**
+* 🌱 Currently learning **React.js**
 * ⚡ Interested in **System Design & Cloud Infrastructure**
 * 🎯 Goal: Become a **high-level backend engineer**
 
@@ -24,24 +24,23 @@
 
 ### 🚀 Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🗄 Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 📚 Currently Learning
 
-![C#](https://img.shields.io/badge/CSharp-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
