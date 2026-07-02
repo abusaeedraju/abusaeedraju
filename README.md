@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋 I'm Abusaeed Raju
+# Hi 👋 I'm Soikot Md Abu Shaid Raju
 
-### MERN Stack Backend Developer | Learning React.js
+### Backend Developer | Node.js | TypeScript | Express | Prisma
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;MERN+Stack+Developer;Node.js+API+Developer;Learning+React.js;Building+Scalable+Systems&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Node.js+API+Developer;TypeScript+Developer;Express+and+Prisma+Developer;Building+Scalable+Backend+Systems;Learning+React.js&center=true&width=650&height=45">
 
 </div>
 
@@ -12,35 +12,148 @@
 
 ## 🚀 About Me
 
-* 💻 Backend developer focused on **Node.js & scalable APIs**
-* 🛠 Main stack: **MongoDB, Express, React, Node.js**
+* 💻 Backend developer focused on **Node.js, TypeScript, Express, and scalable REST APIs**
+* 🏢 Currently working as a **Jr. Backend Developer at SM Technology**
+* 🔐 Experienced in **JWT authentication, RBAC, OTP verification, password reset, bcrypt, and API security**
+* 💳 Worked with **Stripe payments, subscriptions, one-time payments, and webhook handling**
+* ⚡ Built real-time features using **Socket.IO, WebSocket, Redis, and Firebase Push Notifications**
+* 🗄 Experienced with **MongoDB, PostgreSQL, MySQL, Prisma, Redis, and database transactions**
+* ☁️ Comfortable with **VPS deployment, Nginx, PM2, AWS S3, Cloudinary, and production maintenance**
 * 🌱 Currently learning **React.js**
-* ⚡ Interested in **System Design & Cloud Infrastructure**
 * 🎯 Goal: Become a **high-level backend engineer**
 
 ---
 
 # 🧰 Tech Stack
 
-### 🚀 Backend
+## 🚀 Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄 Database
+## 🗄 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
-### ⚙ Tools
+## ⚡ Real-Time & Queue
+
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=socketdotio&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6B00?style=for-the-badge&logo=redis&logoColor=white)
+
+## 💳 Payment & Integrations
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F5820D?style=for-the-badge&logo=firebase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+## ☁️ Tools & Deployment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 ![ReactJS](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+# 💼 Experience
+
+## Jr. Backend Developer — SM Technology
+
+**June 2025 – Present**
+
+* Designed and developed backend systems using **Node.js, TypeScript, Express, and Prisma**
+* Built secure authentication systems with **JWT, RBAC, bcrypt, OTP verification, and password reset**
+* Integrated **Stripe payment systems**, subscriptions, one-time payments, and webhook-based event handling
+* Developed admin dashboard APIs with filtering, role-based control, analytics, user tracking, and revenue monitoring
+* Designed and optimized database schemas using **MongoDB, PostgreSQL, Prisma, and transactions**
+* Implemented real-time features with **Socket.IO**, Redis caching, BullMQ queues, and file uploads
+* Deployed and maintained production applications on VPS using **Nginx and PM2**
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 TechON 345 — Electronic E-commerce Platform
+
+Developed the backend for an electronics e-commerce platform for the Cayman Islands.
+
+**Key Features:**
+
+* Product management
+* Order processing
+* User management
+* Admin dashboard APIs
+* Earning analysis
+* Sales and order monitoring
+
+**Tech Stack:** Node.js, TypeScript, Prisma, MongoDB, JWT
+
+---
+
+## 📊 Benchmark Monitoring — Movement Monitoring Reporting Platform
+
+Developed the backend for a construction, infrastructure, and geotechnical monitoring platform.
+
+**Key Features:**
+
+* Project monitoring APIs
+* Structural condition tracking
+* Analytical PDF report generation
+* Stripe payment integration for report generation
+* User management
+* Admin dashboard APIs
+* Revenue and performance analytics
+
+**Tech Stack:** Node.js, TypeScript, Prisma, Stripe, MongoDB, JWT
+
+---
+
+## 💬 Sparck-Connect — Social Media Based Dating App
+
+Developed the backend for a social media-style dating mobile application.
+
+**Key Features:**
+
+* Redis-based OTP verification
+* Real-time location tracking
+* Real-time active status monitoring
+* Real-time chat with Socket.IO
+* Firebase push notifications
+* Apple Pay / Google Pay IAP webhook integration
+* User and subscription management dashboard
+
+**Tech Stack:** Node.js, TypeScript, Socket.IO, Redis, Firebase, Prisma, MongoDB, JWT
+
+---
+
+## 🏋️ How Are You Today? — Fitness Tracking & AI Trainer App
+
+Developed the backend for an AI-driven fitness tracking and trainer platform.
+
+**Key Features:**
+
+* AI-powered fitness data analysis
+* Personalized workout guidance
+* Progress insights
+* Training recommendations
+* IAP subscription workflow
+* Firebase push notifications
+* Admin dashboard for user and earning analysis
+
+**Tech Stack:** Node.js, TypeScript, Prisma, MongoDB, JWT, OpenAI API
 
 ---
 
@@ -76,8 +189,16 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Abusaeed%20Raju-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:rtraju2016@gmail.com">
+<img src="https://img.shields.io/badge/Email-rtraju2016%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abusaeedraju">
+<img src="https://img.shields.io/badge/GitHub-abusaeedraju-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/abu-saeed-raju-259086140/">
+<img src="https://img.shields.io/badge/LinkedIn-Abu%20Saeed%20Raju-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
