@@ -7,6 +7,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Node.js+API+Developer;TypeScript+Developer;Express+and+Prisma+Developer;Building+Scalable+Backend+Systems;Learning+React.js&center=true&width=650&height=45">
 
 </div>
+<div align="center">
+Currently focused on learning <b>React</b> and <b>NestJS</b>
+</div>
 
 ---
 
