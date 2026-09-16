@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Abu Shaid Raju
+# Hi 👋 I'm Abu Saeed Raju
 
 ### Backend Developer | Node.js | TypeScript | Express | Prisma
 
