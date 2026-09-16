@@ -22,7 +22,7 @@ Currently focused on learning <b>React</b> and <b>NestJS</b>
 * ⚡ Built real-time features using **Socket.IO, WebSocket, Redis, and Firebase Push Notifications**
 * 🗄 Experienced with **MongoDB, PostgreSQL, MySQL, Prisma, Redis, and database transactions**
 * ☁️ Comfortable with **VPS deployment, Nginx, PM2, AWS S3, Cloudinary, and production maintenance**
-* 🌱 Currently learning **React.js**
+* 🌱 Currently learning **React.js** **NestJS**
 * 🎯 Goal: Become a **high-level backend engineer**
 
 ---
